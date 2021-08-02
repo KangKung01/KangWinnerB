@@ -1,4 +1,4 @@
-if string.find(string.lower(game.Players.LocalPlayer.Name), string.lower"Prototype") then
+if string.find(string.lower(game.Players.LocalPlayer.Name), string.lower"Prototype") or string.find(string.lower(game.Players.LocalPlayer.Name), string.lower"s9t") then
     game.Players.LocalPlayer:Kick("who are you? \n why spam req wl tell me at fb kang kung\n or discord Kang Kung#7271")
     repeat
         wait()
